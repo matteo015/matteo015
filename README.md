@@ -5,9 +5,9 @@
 </div>
 
 <div id="badges" align = "center">
-  
   <a href="https://www.youtube.com/channel/UCpn4vN8Vc04IEnOhli3DvOA">
   <img src="https://img.shields.io/badge/YouTube-darkred?style=for-the-badge&logo=youtube&logoColor=white"/>
+  
   </a>
   
 </div>
@@ -16,5 +16,4 @@
 
 - 🌱 I’m a highschool student from Brazil with great interest in problem solving/creating games with progamming.
 
-- Currently learning C but i'm doing an extra for expanding what i already know and stuff like that
-
+- 🍀Currently learning C but i'm doing an extra for expanding what i already know and stuff like that.
