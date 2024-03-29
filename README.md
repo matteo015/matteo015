@@ -1,42 +1,49 @@
-<div id = "header" align="center">
- <img src="https://media.giphy.com/media/IzzsSWdNMSSKHFR727/giphy.gif" width="80"/>
- <img src="https://media.giphy.com/media/05zW9D5WgvEn72eNMk/giphy.gif" width="80"/>
- </div>
-
-## :herb: About me:
-
-- 🍀 I’m a highschool student from Brazil with great interest in problem solving/creating games with progamming.
-
-- 🍀 Currently learning the basics but i'm doing an extra for expanding what i already know like taking courses and etc...
-
-## 🌱 Right now:
-- 🍀 Learning C and JavaScript.
-
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" width="200"/>
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
 </div>
 
-<div id="badges" align = "center">
-  <a href="https://www.youtube.com/channel/UCpn4vN8Vc04IEnOhli3DvOA">
-  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
-  </a>
-   
-  <a href="https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcRzDDPCZJScQFLmSTwZPfhRrjWnjNzVSdbKfFFbqBCCmCxRdtbrVXMSzkjJRgFcZPTdqXhpr">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  
-  <a href="https://github.com/matteo015">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  
-  <a href="https://www.instagram.com/mahdiaas/">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  
+###
+
+<h1 align="center">Yo 👋</h1>
+
+###
+
+<h3 align="left">👩‍💻  About Me</h3>
+
+###
+
+<p align="left">- 📚 I'm currently learning CSS, HTML and JavaScript<br><br>- ⚡ In my free time i like to decompile the source code of games that i like and tweak them to see what is going on</p>
+
+###
+
+<h2 align="left">🛠 Languages and tools</h2>
+
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
+  <img width="22" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+  <img width="22" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="22" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="22" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
 </div>
-  
-  <div id="display" align="center">
-    <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-    <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  </div>
+
+###
+
+<h3 align="left">🔥   My Stats :</h3>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=matteo015&locale=en&mode=weekly&theme=dark&hide_border=false&border_radius=1&order=3" height="222" alt="streak graph"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/matteo015/matteo015/output/snake.svg" alt="Snake animation" />
+
+###
