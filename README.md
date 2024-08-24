@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning the .NET enviroment along side databases and general software development.<br><br>🎯 My main goal is to accumulate enough knowledge by building apps and solving problems to get into my own programming job.</p>
+<p align="left">📚 I'm currently learning the .NET environment alongside databases and general software development.<br><br>🎯 My main goal is to accumulate enough knowledge by building apps and solving problems to get into my own programming job.</p>
 
 ###
 
